@@ -15,8 +15,7 @@ To provide and manage our services, we collect the following personal informatio
 
 - **Full Name**  
 - **Email Address**  
-- **Physical Address**  
-- **Bank Account Details** (including account number and bank name)
+- **Physical Address** 
 
 This information is collected directly from you when you register or interact with our App.
 
@@ -60,9 +59,9 @@ To exercise any of these rights, please contact us using the details below.
 ## 5. Contact Us
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, please reach out to us:
-
+🌎 **Website:** www.gasfeestation.com
 📧 **Email:** gasfeestation@gmail.com  
-📱 **Phone:** +234 901 928 82929  
+📱 **Phone:** +2348162025554  
 
 We are based in Nigeria and operate exclusively within the country.
 
